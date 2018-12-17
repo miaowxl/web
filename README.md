@@ -1,4 +1,4 @@
-# wxapp-mall
+# wx-mall
 微信小程序 商城
 
 ## 功能
